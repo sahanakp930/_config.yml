@@ -11,43 +11,6 @@ The site uses the **Jekyll Theme Cayman** for a clean and modern look, ideal for
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed on your system:
-- Ruby
-- Bundler
-- Jekyll
-
-### Installation
-
-To get started with this project, follow these steps:
-
-1. Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/your-username/smartcity.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd smartcity
-    ```
-
-3. Install dependencies:
-    ```bash
-    bundle install
-    ```
-
-4. Serve the site locally:
-    ```bash
-    bundle exec jekyll serve
-    ```
-
-5. Open your browser and go to `http://localhost:4000` to view the site.
-
----
-
 ## Contributing
 
 Feel free to fork the repository and submit pull requests with suggestions, improvements, or new ideas.
