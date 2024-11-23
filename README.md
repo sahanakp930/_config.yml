@@ -1,4 +1,5 @@
 # SmartCity
+
 Welcome to the SmartCity project! This portfolio showcases various ideas, designs, and implementations aimed at creating smarter, more sustainable urban spaces. The goal is to demonstrate how technology and innovation can transform cities and improve the quality of life for their residents.
 
 ## Purpose
@@ -8,8 +9,6 @@ This site is intended to showcase the potential of smart cities through various 
 ## Theme
 
 The site uses the **Jekyll Theme Cayman** for a clean and modern look, ideal for personal projects, portfolios, or blogs.
-
----
 
 ## Contributing
 
