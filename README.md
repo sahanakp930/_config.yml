@@ -1,7 +1,4 @@
 # SmartCity
-
-![Smart City](https://pin.it/2dJ7LtGpm)  <!-- Add your image URL here -->
-
 Welcome to the SmartCity project! This portfolio showcases various ideas, designs, and implementations aimed at creating smarter, more sustainable urban spaces. The goal is to demonstrate how technology and innovation can transform cities and improve the quality of life for their residents.
 
 ## Purpose
