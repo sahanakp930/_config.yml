@@ -1,0 +1,9 @@
+/assets
+  /images
+    background.jpg   # Your background image file
+  /css
+    style.css         # Your custom CSS file
+/_layouts
+  default.html        # The layout file where CSS is linked
+/_config.yml          # The config file with general settings
+/README.md            # Your README file
